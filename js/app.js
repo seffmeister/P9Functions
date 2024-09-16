@@ -31,3 +31,7 @@ function turnAround() {
   turnRight();
   turnRight();
 }
+
+function fly() {
+
+}
